@@ -1,0 +1,13 @@
+Changelog: 	#0000
+Ticket(s):	N/A
+
+Datum:		07.11.2017
+Name:		Christoph Seegerer
+
+
++	Initial Commit
++	Projektstruktur
++	Projektinitialisierung
+
+
+Projekt angelegt, Git eingerichtet, Projekt und Engine eingestellt.
