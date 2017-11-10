@@ -1,0 +1,10 @@
+Changelog: 	#0001
+Ticket(s):	001
+
+Datum:		10.11.2017
+Name:		Christoph Seegerer
+
+
++	Basic Character Movement
++	Input Bindings
++	BaseGameMode
