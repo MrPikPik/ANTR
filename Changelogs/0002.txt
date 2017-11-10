@@ -1,0 +1,9 @@
+Changelog: 	#0002
+Ticket(s):	002
+
+Datum:		10.11.2017
+Name:		Christoph Seegerer
+
+
++	Basic AI
+*	Character
