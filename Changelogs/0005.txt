@@ -1,0 +1,11 @@
+Changelog: 	#0005
+Ticket(s):	003
+
+Datum:		13.11.2017
+Name:		Christoph Seegerer
+
+
++	Einfriermechanik in einfachster Form
+
+Feinde können nun duch ansehen eingefroren werden.
+TODO: Taschenlampe, Tweaking?
