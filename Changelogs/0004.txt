@@ -1,0 +1,9 @@
+Changelog: 	#0004
+Ticket(s):	---
+
+Datum:		13.11.2017
+Name:		Christoph Seegerer
+
+
+*	Blockout weiter ausgebaut
++	Sprinten beim Character
