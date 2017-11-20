@@ -1,0 +1,39 @@
+Changelog: 	#0008
+Ticket(s):	?
+
+Datum:		20.11.2017
+Name:		Christoph Seegerer
+
+
++	Zusätzliche Funktionen in der Funktions-Bibliothek
++	Taschenlampenlicht
++	Taschenlampe: Batterie-Ressource
++	Batterie-Pickup
++	Gegner: Temporäre Animation (für Prototyp)
++	Gegner: Auswahl für aktive Gegner einer Runde
++	Gegner: Wähle zufällig 10 Gegner auf der Karte aus, die zum Leben erwachen werden
++	Einfrieren nun auch Entfernungsabhängig
++	Fluchgegenstand: Pickup
++	PhysMats; Oberflächenbeschaffenheiten (für bspw. Footstepts)
++	UI zum anzeigen, wie viele Batterien verbleibend sind
++	Audio: Temporäre Footstep- und Pickup-Sounds
++	Audio: Steam Audio Settings und Initialisierung
++	Audio: Soundklassen und Mastermix angelegt
+*	Gegner Einfrieren von der Taschenlampe abhängig gemacht
+*	Einfrierwerte angepasst
+*	Mapanpassungen an das Audiosystem
+
+
+
+Sound Engine mit Steam Audio eingerichtet und eingestellt.
+
+Taschenlampe hat nun ein korrektes Licht, dessen Helligkeit abhängig der Batterieladung ist.
+Der Spieler kann die Taschenlampe "nachladen", was eine Batterie verbraucht und die Taschenlampe komplett auffüllt. Ein UI zeigt dem Spieler, wie viele Batterien dem Spieler noch zur verfügung stehen.
+
+Weitere Batterien können über Batterie-Pickups gewonnen werden.
+
+Footstep-Sounds werden nun abgespielt. (Sounds temporär und NUR für den Prototypen!)
+
+Als Indikator für das Einfrieren als auch die Bewegung der Gegner haben diese nun eine temoräre Animation.
+
+*Anm: Gegner können aktuell noch durch Wände hindurch eingefroren werden!
