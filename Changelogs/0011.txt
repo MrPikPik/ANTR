@@ -1,0 +1,12 @@
+Changelog: 	#0011
+Ticket(s):	
+
+Datum:		22.11.2017
+Name:		Christoph Seegerer
+
+
++	Fluchaufhebung
++	Batteriemodel
++	Taschenlampenmodel
+*	Anpassungen
+Fix	Controllermovement
