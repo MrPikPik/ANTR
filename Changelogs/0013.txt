@@ -1,0 +1,12 @@
+Changelog: 	#0013
+Ticket(s):	
+
+Datum:		12.12.2017
+Name:		Christoph Seegerer
+
+*	Fluchauslöser (betr. Pickups)
++	Hilfsfunktionen
++	Wegweiserschilder (tmp)
++	Eingangstür
+*	KI hat nun mehrere "Routinen"
++	Vorbereitung auf Behaviortree basierender KI
