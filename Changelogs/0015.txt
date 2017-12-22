@@ -1,0 +1,14 @@
+Changelog: 	#0015
+Ticket(s):	
+
+Datum:		22.12.2017
+Name:		Christoph Seegerer
+
++	Aimassist: Wenn der Spieler mit seiner Sicht nahe an einem Gegner dran ist, korrigiert das System diese genauer auf den Gegner
++	Targetingassist: Wenn der Spieler mit der Sicht über einen Gegner läuft, verlangsamt sich diese während sie über dem Gegner ist
++	Kugelkoordinatenfunktionen für Aim- und Targetingassist
++	Änderung Gamepad Input wegen der Aimassist-Systeme
+*	Aufräumen des Character-Blueprints
+*	Aufräumen der Hilfsfunktionen
+
++	Fehlendes Changelog vom 13.12. (#0014)

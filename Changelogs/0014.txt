@@ -1,0 +1,7 @@
+Changelog: 	#0014
+Ticket(s):	
+
+Datum:		13.12.2017
+Name:		Christoph Seegerer
+
+*	Mapfixes: Breitere Treppen für NavMesh
