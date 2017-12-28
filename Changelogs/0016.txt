@@ -1,0 +1,14 @@
+Changelog: 	#0016
+Ticket(s):	
+
+Datum:		28.12.2017
+Name:		Christoph Seegerer
+
++	Tri-Planar Mapping
++	Standard-Texturen zum Shader
+
+Tri-Planar-Mapping:
+
+Textur wird von den drei Raumachsen auf das Model projiziert.
+Kantenübergänge können eingestellt werden, ebenso die Wiederholungsrate der Textur.
+Verwendbar vorzugsweise nur mit Tilebaren Texturen!
