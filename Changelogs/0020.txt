@@ -1,0 +1,9 @@
+Changelog: 	#0019
+Ticket(s):	
+
+Datum:		10.01.2018
+Name:		Christoph Seegerer
+
+*	Weitere Reviewfixes
++	Minimap Tab im Menü
+*	Maximale Anzahl an Tasten für Keybinding: 1 (war 4), verbietet Tastenkombinationen
