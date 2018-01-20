@@ -1,0 +1,7 @@
+Changelog: 	#0021
+Ticket(s):	
+
+Datum:		20.01.2018
+Name:		Christoph Seegerer
+
++	Spielerposition wird auf Minimap projiziert
