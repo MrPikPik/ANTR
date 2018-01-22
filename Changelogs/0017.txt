@@ -1,0 +1,12 @@
+Changelog: 	#0017
+Ticket(s):	
+
+Datum:		30.12.2017
+Name:		Christoph Seegerer
+
++	Implementierung Menü
+-	Alte Audiomixerklassen (ersetzt durch neue)
+*	DEV Sounds: Soundklassen geändert
+
+
+Das Menü wurde in den Gamemode, in den Character und in weitere betroffene Blueprints eingebaut

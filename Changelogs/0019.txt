@@ -1,0 +1,9 @@
+Changelog: 	#0019
+Ticket(s):	
+
+Datum:		10.01.2018
+Name:		Christoph Seegerer
+
+*	Fix für Aimassist auf der Hauptmap
+*	Dateien in richtige Ordner verschoben
+*	Kleinere Tweaks am Menü
