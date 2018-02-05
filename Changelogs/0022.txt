@@ -1,0 +1,9 @@
+Changelog: 	#0022
+Ticket(s):	
+
+Datum:		05.02.2018
+Name:		Christoph Seegerer
+
++	Ausdauer
++	Ausdaueranzeige im UI
+*	Sprinten nur noch geradeaus möglich
