@@ -1,0 +1,7 @@
+Changelog: 	#0023
+Ticket(s):	
+
+Datum:		06.02.2018
+Name:		Christoph Seegerer
+
+*	Minimap Finale Texturen eingefügt
