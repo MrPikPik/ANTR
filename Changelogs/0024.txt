@@ -1,0 +1,7 @@
+Changelog: 	#0023
+Ticket(s):	
+
+Datum:		18.02.2018
+Name:		Christoph Seegerer
+
+*	Minimap Fix für Icon Placement (Position to minimap)
